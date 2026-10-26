@@ -102,7 +102,6 @@
     <Compile Include="Mod_PandaWizardHarvestMod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="spWizardHarvest.cs" />
-    <Compile Include="Trait_OnBarter_Patch.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Element\Element.xlsx" />
