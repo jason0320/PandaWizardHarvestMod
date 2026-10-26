@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Panda's Wizard Harvest Mod</title>
+  <id>Mod_PandaWizardHarvestMod</id>
+  <author>Now Happy Panda</author>
+  <loadPriority>100</loadPriority>
+  <description>Add scroll, spell and special ability of Wizard's Harvest</description>
+  <version>0.23.356</version>
+</Meta>
